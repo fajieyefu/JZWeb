@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/msbase.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/msutil.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/jar/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="F:/jar/commons-io-2.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
